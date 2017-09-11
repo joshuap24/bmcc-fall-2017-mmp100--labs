@@ -1,30 +1,17 @@
-# Labs
-## Introduction to Multimedia (MMP100)
-## Borough of Manhattan Community College (BMCC)
-## Fall 2017
+# Lab 1 — Git
 
-This is the repo of all labs for Roy Vanegas’ section of MMP100 at BMCC. As labs become available, a folder with the lab number will appear at the root of this repo.
+Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or [Typora](https://typora.io/)) to edit this file with your answers to the following questions. When you’re done, **submit this lab by issuing a pull request to the original repo by 12:40 PM on Tuesday, 12 September 2017**. We’ll demo a few pull requests in class on Tuesday so you can see how it’s done.
 
-## Forking
+### 1. What is a repository (or repo)?
 
-You’ll only need to fork this repo once. As I add labs to this repo, you’ll simply need to update your fork.
+### 2. What does it mean to “fork” a repo?
 
-## Cloning
+### 3. What does it mean to “clone” a repo?
 
-With this repo forked, you’ll need to clone it to your local machine. This too is a process that will only need to be carried out once.
+### 4. What is a push?
 
-### Your Own Branch
+### 5. What is a pull?
 
-Each student has their own banch, formatted as `lab-LAB_NUMBER--NAME--GITHUB_USERNAME` where `LAB_NUMBER` is one of eight lab numbers, `NAME` is the first and last name of a student, and `GITHUB_USERNAME` is that student’s GitHub username. For example, if I was a student in the class doing lab 1, I’d have a branch formatted as follows:
+### 6. What is a pull request?
 
-```
-lab-1--roy-vanegas--code-warrior
-```
-
-### Submission Instructions
-
-1. With the [https://github.com/code-warrior/bmcc-fall-2017-mmp100--labs](https://github.com/code-warrior/bmcc-fall-2017-mmp100--labs) forked and cloned, checkout your personalized branch
-2. Place any work required in the correct lab folder
-3. Commit your changes
-4. Push your changes
-5. Issue a pull request back into the [https://github.com/code-warrior/bmcc-fall-2017-mmp100--labs](https://github.com/code-warrior/bmcc-fall-2017-mmp100--labs) repo
+### 7. What is a branch?
