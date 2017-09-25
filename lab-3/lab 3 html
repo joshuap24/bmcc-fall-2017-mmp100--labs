@@ -2,4 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  hk
+</head>
+<body>
+    <h1>Non-meat Items</h1>
+
+    <h2>Fruits</h2>
+    <h3>Pear</h3>
+    <h3>Apple</h3>
+    <h3>Avocado</h3>
