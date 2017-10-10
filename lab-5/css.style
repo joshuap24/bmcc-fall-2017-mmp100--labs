@@ -1,0 +1,13 @@
+body {
+    font-family: 'Prociono', serif;
+    color:red;
+
+}
+
+h1{
+   font-family: 'Playball', cursive;
+   color: blue;
+   font-size 16
+
+
+}
