@@ -2,18 +2,16 @@
   0% {
     background-position: 0 0;
   }
-  100%{
+  100% {
     background-position: -3000px 0;
-
   }
-
 }
 
 div{
   animation: first-strip 1s steps(3);
   width: 1000px;
   height: 1000px;
-  background-image: url('img/sprite.png');
+  background-image: url('../img/sprite.png');
 
 
 }
